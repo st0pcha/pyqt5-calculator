@@ -1,1 +1,2 @@
-Maybe, my calculator has a lot of bugs, sorry
+### Over need information!
+If you find bugs in my calculator issue it
